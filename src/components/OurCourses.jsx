@@ -25,22 +25,22 @@ const OurCourses = () => {
             {/* features */}
             <div className="space-y-2">
               <span className="flex gap-2">
-                <img className="w-6" src="src\assets\check-circle.png" alt="" />
+                <img className="w-6" src="/assets/check-circle.png" alt="" />
                 <p>Some features here</p>
               </span>
               <span className="flex items-center gap-2">
-                <img className="w-6" src="src\assets\check-circle.png" alt="" />
+                <img className="w-6" src="/assets/check-circle.png" alt="" />
                 <p>
                   Explore more about the plan Some <br />
                   features here
                 </p>
               </span>
               <span className="flex gap-2">
-                <img className="w-6" src="src\assets\check-circle.png" alt="" />
+                <img className="w-6" src="/assets/check-circle.png" alt="" />
                 <p>Some features here</p>
               </span>
               <span className="flex gap-2">
-                <img className="w-6" src="src\assets\check-circle.png" alt="" />
+                <img className="w-6" src="/assets/check-circle.png" alt="" />
                 <p>Some features here</p>
               </span>
             </div>
@@ -51,11 +51,7 @@ const OurCourses = () => {
           </div>
           {/* wave image */}
           <div className="absolute bottom-0">
-            <img
-              className="object-cover"
-              src="src\assets\Group 42.png"
-              alt=""
-            />
+            <img className="object-cover" src="/assets/Group 42.png" alt="" />
           </div>
         </div>
         {/* 2nd */}
@@ -73,22 +69,22 @@ const OurCourses = () => {
             {/* features */}
             <div className="space-y-2">
               <span className="flex gap-2">
-                <img className="w-6" src="src\assets\check-circle.png" alt="" />
+                <img className="w-6" src="/assets/check-circle.png" alt="" />
                 <p>Some features here</p>
               </span>
               <span className="flex items-center gap-2">
-                <img className="w-6" src="src\assets\check-circle.png" alt="" />
+                <img className="w-6" src="/assets/check-circle.png" alt="" />
                 <p>
                   Explore more about the plan Some <br />
                   features here
                 </p>
               </span>
               <span className="flex gap-2">
-                <img className="w-6" src="src\assets\check-circle.png" alt="" />
+                <img className="w-6" src="/assets/check-circle.png" alt="" />
                 <p>Some features here</p>
               </span>
               <span className="flex gap-2">
-                <img className="w-6" src="src\assets\check-circle.png" alt="" />
+                <img className="w-6" src="/assets/check-circle.png" alt="" />
                 <p>Some features here</p>
               </span>
             </div>
@@ -101,7 +97,7 @@ const OurCourses = () => {
           <div className="absolute bottom-0">
             <img
               className="object-cover"
-              src="src\assets\Group 42 (1).png"
+              src="/assets/Group 42 (1).png"
               alt=""
             />
           </div>
@@ -121,22 +117,22 @@ const OurCourses = () => {
             {/* features */}
             <div className="space-y-2">
               <span className="flex gap-2">
-                <img className="w-6" src="src\assets\check-circle.png" alt="" />
+                <img className="w-6" src="/assets/check-circle.png" alt="" />
                 <p>Some features here</p>
               </span>
               <span className="flex items-center gap-2">
-                <img className="w-6" src="src\assets\check-circle.png" alt="" />
+                <img className="w-6" src="/assets/check-circle.png" alt="" />
                 <p>
                   Explore more about the plan Some <br />
                   features here
                 </p>
               </span>
               <span className="flex gap-2">
-                <img className="w-6" src="src\assets\check-circle.png" alt="" />
+                <img className="w-6" src="/assets/check-circle.png" alt="" />
                 <p>Some features here</p>
               </span>
               <span className="flex gap-2">
-                <img className="w-6" src="src\assets\check-circle.png" alt="" />
+                <img className="w-6" src="/assets/check-circle.png" alt="" />
                 <p>Some features here</p>
               </span>
             </div>
@@ -149,7 +145,7 @@ const OurCourses = () => {
           <div className="absolute bottom-0">
             <img
               className="object-cover"
-              src="src\assets\Group 42 (2).png"
+              src="/assets/Group 42 (2).png"
               alt=""
             />
           </div>

@@ -10,7 +10,7 @@ const About = () => {
 
         <div className="flex flex-col gap-4 max-w-fit">
           <div>
-            <img className="w-60" src="src\assets\Frame 149.png" alt="" />
+            <img className="w-60" src="/assets/Frame 149.png" alt="" />
           </div>
           <div className="px-4 py-2 bg-[#F8F5FE] rounded-r-3xl rounded-t-3xl flex items-center gap-3">
             <div className="w-12 h-12 bg-[#BC9AF1] rounded-full"></div>
@@ -27,10 +27,10 @@ const About = () => {
         <div className="flex flex-col gap-4">
           <img
             className="w-60 h-60 rounded-full"
-            src="src\assets\image 6.png"
+            src="/assets/image 6.png"
             alt=""
           />
-          <img className="w-60" src="src\assets\Frame 152.png" alt="" />
+          <img className="w-60" src="/assets/Frame 152.png" alt="" />
         </div>
       </div>
 

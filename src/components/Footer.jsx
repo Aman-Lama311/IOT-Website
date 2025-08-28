@@ -9,8 +9,8 @@ const Footer = () => {
       <div className="flex justify-between flex-wrap">
         {/* left side */}
         <div className="flex flex-col gap-10 max-w-2xl">
-          <div>
-            <img src="src\assets\image 1.png" alt="" />
+          <div className="space-y-2">
+            <img src="/assets/image 1.png" alt="" />
             <ul>
               <p>We are group of Educator who provides:</p>
               <li>&nbsp; 1.Weakly STEAM classes</li>
@@ -62,15 +62,11 @@ const Footer = () => {
               </Link>
             </div>
             {/* video dummy */}
-            <div className="mt-8 relative">
-              <img
-                className="rounded-2xl"
-                src="src\assets\image 11.png"
-                alt=""
-              />
+            <div className="mt-10 relative">
+              <img className="rounded-2xl" src="/assets/image 11.png" alt="" />
               <img
                 className="absolute top-1/3 left-25"
-                src="src\assets\Video.png"
+                src="/assets/Video.png"
                 alt=""
               />
             </div>

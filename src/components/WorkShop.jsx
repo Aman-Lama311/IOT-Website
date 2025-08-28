@@ -31,7 +31,7 @@ const WorkShop = () => {
 
         {/* right illustration */}
         <div>
-          <img src="src\assets\Workshop.png" alt="" />
+          <img src="/assets/Workshop.png" alt="" />
         </div>
       </div>
     </div>

@@ -29,7 +29,7 @@ const WhyUs = () => {
         {/* right illustration */}
         <div>
           <img
-            src="src\assets\Illustration - Delivery _ order, account, transportation, subway, box, shopping.png"
+            src="/assets/Illustration - Delivery _ order, account, transportation, subway, box, shopping.png"
             alt=""
           />
         </div>

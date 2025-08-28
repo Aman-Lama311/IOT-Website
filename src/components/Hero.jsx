@@ -64,22 +64,22 @@ const Hero = () => {
       <div>
         <img
           className="absolute right-96 top-8 z-10"
-          src="src\assets\meteocons_star-fill.png"
+          src="/assets/meteocons_star-fill.png"
           alt=""
         />
         <div className="absolute right-0 top-5 z-10">
           <div>
-            <img className="w-[37vw] " src="src\assets\Vector (1).png" alt="" />
+            <img className="w-[37vw] " src="/assets/Vector (1).png" alt="" />
           </div>
         </div>
         <div className="absolute right-0 top-10">
           <div>
-            <img className="w-[36vw]" src="src\assets\Vector.png" alt="" />
+            <img className="w-[36vw]" src="/assets/Vector.png" alt="" />
           </div>
         </div>
         <img
           className="w-[18vw] absolute right-15 top-[32vw]"
-          src="src\assets\Frame 136.png"
+          src="/assets/Frame 136.png"
           alt=""
         />
       </div>
