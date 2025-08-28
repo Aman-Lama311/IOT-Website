@@ -52,10 +52,10 @@ const Hero = () => {
         <div className="space-y-3">
           <p>Trusted by</p>
           <div className="flex gap-4">
-            <img className="w-7" src="src\assets\Airbnb.png" alt="" />
-            <img className="w-7" src="src\assets\Baidu.png" alt="" />
-            <img className="w-7" src="src\assets\Trello Logo.png" alt="" />
-            <img className="w-7" src="src\assets\Vine Logo.png" alt="" />
+            <img className="w-7" src="/assets/Airbnb.png" alt="" />
+            <img className="w-7" src="/assets/Baidu.png" alt="" />
+            <img className="w-7" src="/assets/Trello Logo.png" alt="" />
+            <img className="w-7" src="/assets/Vine Logo.png" alt="" />
           </div>
         </div>
       </div>
