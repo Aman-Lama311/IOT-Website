@@ -72,7 +72,7 @@ const Testimonials = () => {
                 quibusdam dignissimos, sint saepe, enim blanditiis
               </p>
             </div>
-            <img src="]/assets/Frame 146.png" alt="" />
+            <img src="/assets/Frame 146.png" alt="" />
           </div>
         </div>
       </div>
